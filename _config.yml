@@ -1,11 +1,9 @@
 title: Charles Taylor - Portfolio
 email: charlestaylor95@gmail.com
 description: >-
-  Check out my portfolio!
   I'm currently job seeking, for web development positions.
-  I'm proficient in React.js, Django, & Ruby on rails.
-  I also have great interest in less mainstream languges, namely Rust & Haskell.
-Reach out to me at [charlestaylor95@gmail.com](mailto:charlestaylor95@gmail.com).
+  I'm proficient in mainstream web frameworks, React.js, Django, & Ruby on rails, to name a few.
+  I'm also quite proficient in less mainstream technologies, namely Rust & Haskell.
 baseurl: ""
 url: https://charlestaylor7.github.io/
 github_username:  CharlesTaylor7
